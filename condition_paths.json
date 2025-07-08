@@ -1,0 +1,9 @@
+{
+  "jsonpaths": [
+    "$.code",
+    "$.description",
+    "$.onset",
+    "$.clinicalstatus",
+    "$.patient_id"
+  ]
+}
