@@ -43,11 +43,11 @@ Query patient records in real time via unique patient IDs with a clean and intui
 ---
 ## Impact
 
-Reduced query latency by 40% for healthcare record lookups.
+* Reduced query latency by 40% for healthcare record lookups.
 
-Improved retrieval accuracy by 30% through augmented pipelines.
+* Improved retrieval accuracy by 30% through augmented pipelines.
 
-Increased system reliability via reinforcement-driven experiments and monitoring integration.
+* Increased system reliability via reinforcement-driven experiments and monitoring integration.
 
 
 ## Getting Started  
