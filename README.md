@@ -13,32 +13,32 @@ Query patient records in real time via unique patient IDs with a clean and intui
 
 * EHR Data Pipeline
 
-Parsed and normalized 50K+ JSON event records into Redshift through Python + S3 ingestion pipelines.
+* Parsed and normalized 50K+ JSON event records into Redshift through Python + S3 ingestion pipelines.
 
-Optimized schema and ETL logic for sub-second interactive queries on complex healthcare datasets.
+* Optimized schema and ETL logic for sub-second interactive queries on complex healthcare datasets.
 
 * Retrieval-Augmented Intelligence
 
-Implemented retrieval-augmented generation (RAG) pipelines with monitoring hooks.
+* Implemented retrieval-augmented generation (RAG) pipelines with monitoring hooks.
 
-Achieved 30% improvement in accuracy and 40% reduction in latency during conversational querying.
+* Achieved 30% improvement in accuracy and 40% reduction in latency during conversational querying.
 
 * Reliability & Monitoring
 
-Conducted reinforcement-tuned experiments to improve reliability of responses.
+* Conducted reinforcement-tuned experiments to improve reliability of responses.
 
-Enhanced failure detection and fallback handling, ensuring safe and auditable AI outputs for clinical contexts.
+* Enhanced failure detection and fallback handling, ensuring safe and auditable AI outputs for clinical contexts.
 
 --- 
 ## Tech Stack
 
-Frontend & Application Layer: Streamlit, Python
+* Frontend & Application Layer: Streamlit, Python
 
-Data Pipeline: AWS S3, Redshift, Python ETL
+* Data Pipeline: AWS S3, Redshift, Python ETL
 
-AI/ML Components: LangChain, Retrieval-Augmented Generation, Reinforcement-Tuned Conversational Models
+* AI/ML Components: LangChain, Retrieval-Augmented Generation, Reinforcement-Tuned Conversational Models
 
-Observability: Custom monitoring hooks for latency, accuracy, and failure detection
+* Observability: Custom monitoring hooks for latency, accuracy, and failure detection
 
 ---
 ## Impact
