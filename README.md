@@ -1,6 +1,12 @@
-Navigate to healthbot-web and execute:
+# 🧠 HealthBot AI Pro  
+**Advanced Clinical Intelligence for Healthcare Professionals**
 
-streamlit run application.py
+---
+
+## ▶️ Getting Started  
+
+Navigate to `healthbot-web` and execute:  
+
 
 Overview
 
