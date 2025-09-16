@@ -14,6 +14,10 @@
 * Governance & auditability: Standardized outputs, lineage to original EHR fields, session logs, and KPI dashboards.
 
 
+## Data Flow Diagram ## 
+
+<img width="1398" height="503" alt="Screenshot 2025-09-15 at 11 33 09 PM" src="https://github.com/user-attachments/assets/13869e6e-33cc-471f-928e-e9a8c00e7cb9" />
+
 ## Features
 
 * Patient Medical Record Lookup
