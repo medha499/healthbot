@@ -60,3 +60,14 @@ Query patient records in real time via unique patient IDs with a clean and intui
 
 * Increased system reliability via reinforcement-driven experiments and monitoring integration.
 
+  ---
+## Getting Stated:
+Navigate to the project directory:
+   ```bash
+   cd healthbot-web
+   ```
+Then, run the app locally
+```bash 
+streamlit run application.py
+```
+
