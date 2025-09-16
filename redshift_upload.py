@@ -3,12 +3,12 @@ import psycopg2
 
 # Replace with your Redshift details
 REGION = "us-east-1"  # your region
-CLUSTER_ID = "healthbot-data"  # Redshift Serverless workgroup
-HOST = "healthbot-data.692859942702.us-east-1.redshift-serverless.amazonaws.com"
-PORT = 5439
-DB_NAME = "healthbot"  # If "dev" is your default DB
-DB_USER = "admin"  # This user must exist on the DB
-IAM_ROLE_ARN = "arn:aws:redshift-serverless:us-east-1:692859942702:workgroup/0c29b3e5-d416-49bb-811a-0ce8266b4219"
+CLUSTER_ID = ""  # Redshift Serverless workgroup
+HOST = ""
+PORT = 
+DB_NAME = "  # If "dev" is your default DB
+DB_USER = ""  # This user must exist on the DB
+IAM_ROLE_ARN = ""
 
 # Step 1: Generate temporary auth token
 session = boto3.Session()
