@@ -70,5 +70,5 @@ Navigate to `healthbot-web` and execute:
 
 <img width="1725" height="841" alt="Screenshot 2025-09-15 at 10 23 32 PM" src="https://github.com/user-attachments/assets/ca4db9fd-ad32-4f6a-b326-dc3b2ed4bf21" />
 
-
+> _Note:_ Example datasets are synthetic; the system supports both anonymized and production pipelines with standard governance controls.
 
