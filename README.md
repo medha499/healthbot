@@ -66,7 +66,5 @@ Navigate to `healthbot-web` and execute:
 
 <img width="1725" height="841" alt="Screenshot 2025-09-15 at 10 23 32 PM" src="https://github.com/user-attachments/assets/ca4db9fd-ad32-4f6a-b326-dc3b2ed4bf21" />
 
-<img width="613" height="803" alt="Screenshot 2025-09-15 at 10 24 13 PM" src="https://github.com/user-attachments/assets/a674d8e4-2e47-4b1f-a4dc-093c7a45e72c" />
-
 
 
