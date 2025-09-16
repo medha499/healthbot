@@ -1,7 +1,7 @@
-# 🧠 HealthBot AI Pro  
+# 🧠 HealthBot AI Pro: Advanced clinical intelligence for healthcare professionals and call-center reps — fast, governed access to EHR data with retrieval-augmented reasoning.
 **Advanced Clinical Intelligence for Healthcare Professionals and Call Center Reps **
 
-Advanced clinical intelligence for healthcare professionals and call-center reps — fast, governed access to EHR data with retrieval-augmented reasoning.
+
 --- 
 ## What it does 
 
