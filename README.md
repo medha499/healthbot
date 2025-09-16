@@ -1,5 +1,5 @@
 # 🧠 HealthBot AI Pro: Advanced clinical intelligence — governed, real-time access to EHR data with retrieval-augmented reasoning, accelerating processing time for rapid action.
-
+> _Note:_ Example datasets are synthetic. Also, all API keys have been redacted for privacy reasons.
 
 --- 
 ## What it does 
