@@ -3,7 +3,7 @@
 
 Advanced clinical intelligence for healthcare professionals and call-center reps — fast, governed access to EHR data with retrieval-augmented reasoning.
 --- 
-## What it does##
+## What it does 
 
 * Patient look-up & summarization: Pulls structured data (problems, meds, labs, encounters) and generates an interpretable summary with citations back to source records.
 
