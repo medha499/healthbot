@@ -13,8 +13,8 @@ try:
 
     print("🔌 Attempting to connect to Redshift...")
     conn = psycopg2.connect(
-        host='healthbot-data.692859942702.us-east-1.redshift-serverless.amazonaws.com',
-        port=5439,
+        host='',
+        port=,
         database='healthbot',
         user=db_user,
         password=db_password,
