@@ -1,8 +1,5 @@
 # 🧠 HealthBot AI Pro  
-**Advanced Clinical Intelligence for Healthcare Professionals**
-
----
-## Overview ##
+**Advanced Clinical Intelligence for Healthcare Professionals and Call Center Reps **
 
 HealthBot AI Pro is a clinical intelligence platform designed to simplify and accelerate access to Electronic Health Records (EHR) for healthcare professionals and call center representatives. Built with Streamlit, AWS S3, Redshift, Python, and LangChain, the system integrates raw healthcare data ingestion, patient record lookup, and retrieval-augmented conversational intelligence to provide fast, reliable, and interpretable insights.
 --- 
